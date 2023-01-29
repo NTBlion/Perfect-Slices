@@ -1,2 +1,2 @@
 # Perfect-Slices
-Учебный проект
+Training project
